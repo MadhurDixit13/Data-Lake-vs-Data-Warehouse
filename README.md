@@ -21,7 +21,7 @@ This project compares the performance, cost, and flexibility of querying COVID-1
 | Schema Flexibility  | ✅ Schema-on-read         | ❌ Schema-on-write               |
 | Data Freshness      | ✅ Always up to date      | ❌ Manual loading required       | -->
 
-## 📂 Folder Structure
+<!-- ## 📂 Folder Structure
 
 data-lake-vs-warehouse/
 │
@@ -45,7 +45,7 @@ data-lake-vs-warehouse/
 │   └── dashboard.py
 │
 │
-└── requirements.txt
+└── requirements.txt -->
 
 ## 🚀 Getting Started
 
